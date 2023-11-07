@@ -11,5 +11,7 @@ class Program
         string text = "hello, world!";
         string capitalized = text.CapitalizeFirstLetter();
         Console.WriteLine(capitalized); // Output: "Hello, world!"
+        
     }
 }
+
